@@ -22,3 +22,5 @@ threeFavorites.forEach(function(movie){
 				});
 			}
 	});
+
+module.exports = threeFavorites;
